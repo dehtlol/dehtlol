@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, me llamo David Enrique Hernández Torres</h1>
+<h1 align="center">Hola 👋, soy el Ing. David Enrique Hernández Torres </h1>
 <h3 align="center">Soy Full Stacks Developer apasionado</h3>
 
 - 🌱 Actualmente estoy aprendiendo **VUE.JS, .NET**
